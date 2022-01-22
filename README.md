@@ -44,10 +44,12 @@ There is a huge world out there to discover... so I am gonna go now... BB
 
 ### Repositories
 
-<a href="https://github.com/georgelinardis/Boilerplate-project" title="Boilerplate project"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Georgelinardis&repo=Boilerplate-project&theme=apprentice"></a>
+<a href="https://github.com/georgelinardis/Boilerplate-project" title="Boilerplate project"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Georgelinardis&repo=Boilerplate-project&theme=apprentice"></a>
 
-<a href="https://github.com/georgelinardis/Aegean-Thesis-Management-System" title="Aegean thesis management system"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Georgelinardis&repo=Aegean-Thesis-Management-System&theme=apprentice"></a>
+<a href="https://github.com/georgelinardis/TD-challenge-project" title="TD challenge"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Georgelinardis&repo=TD-challenge-project&theme=apprentice"></a>
+
+<a href="https://github.com/georgelinardis/Aegean-Thesis-Management-System" title="Aegean thesis management system"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Georgelinardis&repo=Aegean-Thesis-Management-System&theme=apprentice"></a>
 
 
-<a href="https://github.com/georgelinardis/Freecodecamp-challenges" title="Freecodecamp challenges"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Georgelinardis&repo=Freecodecamp-challenges&theme=apprentice"></a>
+<a href="https://github.com/georgelinardis/Freecodecamp-challenges" title="Freecodecamp challenges"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Georgelinardis&repo=Freecodecamp-challenges&theme=apprentice"></a>
 
