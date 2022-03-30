@@ -38,6 +38,7 @@ There is a huge world out there to discover... so I am gonna go now... BB
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What is a cron and how to create your first one](https://freakingcode.hashnode.dev/what-is-a-cron-and-how-to-create-your-first-one)
 <!-- BLOG-POST-LIST:END -->
 
 ### Github streaks:
