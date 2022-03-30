@@ -36,13 +36,15 @@ There is a huge world out there to discover... so I am gonna go now... BB
 <code><img height="37" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
 <code><img height="37" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 
+### Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ### Github streaks:
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=georgelinardis&theme=dark)](https://git.io/streak-stats)
 
 ### Repositories
-
-<a href="https://github.com/georgelinardis/Post-writing-tests" title="Writing tests"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Georgelinardis&repo=Post-writing-tests&theme=apprentice"></a>
 
 <a href="https://github.com/georgelinardis/Boilerplate-project" title="Boilerplate project"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Georgelinardis&repo=Boilerplate-project&theme=apprentice"></a>
 
