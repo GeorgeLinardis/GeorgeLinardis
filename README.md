@@ -24,7 +24,7 @@ I guess it would be easier to list some of my wanna-know list items:
 - Learn development theory e.g design patterns, database designing...
 
 There is a huge world out there to discover... so I am gonna go now... BB 
-<br><br>
+<br>
 ### Languages and Tools:
 
 <code><img height="37" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
@@ -34,9 +34,9 @@ There is a huge world out there to discover... so I am gonna go now... BB
 <code><img height="37" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" alt="redux"></code>
 <code><img height="37" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
 <code><img height="37" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
-<code><img height="37" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
-
-### Blog posts
+<code><img height="37" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>  
+  
+### Latest posts
 <!-- BLOG-POST-LIST:START -->
 - [What is a cron and how to create your first one](https://freakingcode.hashnode.dev/what-is-a-cron-and-how-to-create-your-first-one)
 <!-- BLOG-POST-LIST:END -->
