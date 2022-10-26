@@ -11,8 +11,6 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.freakingcode.com/" target="_blank">
     <img alt="Hashnode blog" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
-  <a href="https://dev.to/georgelinardis/" target="_blank">
-    <img alt="dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
 </div>
 
 ### I am a Javascript Fullstack Web developer
