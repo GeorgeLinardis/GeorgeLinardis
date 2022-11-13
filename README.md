@@ -43,7 +43,6 @@ There is a huge world out there to discover... so I am gonna go now... BB
 
 ### Latest posts
 <!-- BLOG-POST-LIST:START -->
-- [Promises - async/await VS promise chaining](https://www.freakingcode.com/promises-asyncawait-vs-promise-chaining)
 - [Talking about Github contributions](https://www.freakingcode.com/talking-about-github-contributions)
 - [Understanding crons and how they work](https://www.freakingcode.com/understanding-crons-and-how-they-work)
 <!-- BLOG-POST-LIST:END -->
