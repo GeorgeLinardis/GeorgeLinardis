@@ -43,8 +43,8 @@ There is a huge world out there to discover... so I am gonna go now... BB
 
 ### Latest posts
 <!-- BLOG-POST-LIST:START -->
-- [Talking about Github contributions](https://www.freakingcode.com/talking-about-github-contributions)
-- [Understanding crons and how they work](https://www.freakingcode.com/understanding-crons-and-how-they-work)
+- [Talking about Github contributions](https://freakingcode.hashnode.dev/talking-about-github-contributions)
+- [Understanding crons and how they work](https://freakingcode.hashnode.dev/understanding-crons-and-how-they-work)
 <!-- BLOG-POST-LIST:END -->
 
 ### Github streaks:
