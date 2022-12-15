@@ -42,10 +42,9 @@ There is a huge world out there to discover... so I am gonna go now... BB
 <code><img height="37" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webstorm/webstorm-original.svg" alt="webstorm"></code>   
 
 ### Latest posts
-<!-- BLOG-POST-LIST:START -->
-- [Talking about Github contributions](https://freakingcode.hashnode.dev/talking-about-github-contributions)
-- [Understanding crons and how they work](https://freakingcode.hashnode.dev/understanding-crons-and-how-they-work)
-<!-- BLOG-POST-LIST:END -->
+- [Unraveling the Mysteries of the .git Folder](https://medium.com/@georgelinardis/unraveling-the-mysteries-of-the-git-folder-d47b55071aa5)
+- [Async/Await VS Chaining: A Gif-Filled Visual Guide](https://medium.com/@georgelinardis/async-await-vs-promise-chaining-visualising-the-flows-40865d115af1)
+- [CRON for Beginners: An Introduction to Scheduling Tasks in Linux](https://blog.devgenius.io/what-is-a-cron-and-how-to-create-your-first-one-9560d229bf5a)
 
 ### Github streaks:
   
