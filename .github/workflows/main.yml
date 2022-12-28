@@ -7,16 +7,9 @@ on:
 jobs:
   post-medium-links:
     runs-on: ubuntu-latest
-    permissions:
-      contents: read  # <--- allows to read repo
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
-
-      - name: Authenticate with GitHub
-        uses: actions/login@v1
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Get latest Medium posts
         run: |
