@@ -41,10 +41,7 @@ There is a huge world out there to discover... so I am gonna go now... BB
 <code><img height="37" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker"></code>
 <code><img height="37" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webstorm/webstorm-original.svg" alt="webstorm"></code>   
 
-### Latest posts
-- [Unraveling the Mysteries of the .git Folder](https://medium.com/@georgelinardis/unraveling-the-mysteries-of-the-git-folder-d47b55071aa5)
-- [Async/Await VS Chaining: A Gif-Filled Visual Guide](https://medium.com/@georgelinardis/async-await-vs-promise-chaining-visualising-the-flows-40865d115af1)
-- [CRON for Beginners: An Introduction to Scheduling Tasks in Linux](https://blog.devgenius.io/what-is-a-cron-and-how-to-create-your-first-one-9560d229bf5a)
+MEDIUM_POST_LOCATION
 
 ### Github streaks:
   
