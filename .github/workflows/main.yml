@@ -16,7 +16,7 @@ jobs:
           # Use the Medium API to get a list of the latest posts
           # You will need to provide your own API key and user ID
           curl -H "Authorization: Bearer ${{ secrets.MEDIUM_API_TOKEN }}" \
-               "https://api.medium.com/v1/users/@georgelinardis/publications"
+               "https://api.medium.com/v1/users/${{ secrets.MEDIUM_USER_ID }}/publications"
       - name: Log posts
         run: |
           # Print the posts variable to the log
