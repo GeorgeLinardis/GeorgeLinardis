@@ -41,9 +41,10 @@ There is a huge world out there to discover... so I am gonna go now... BB
 <code><img height="37" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker"></code>
 <code><img height="37" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webstorm/webstorm-original.svg" alt="webstorm"></code>   
 
-MEDIUM_POSTS_LOCATION
+# My latest posts on Medium
+
+
 
 ### Github streaks:
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=georgelinardis&theme=dark)](https://git.io/streak-stats)
-
