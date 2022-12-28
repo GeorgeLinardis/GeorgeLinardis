@@ -41,7 +41,7 @@ There is a huge world out there to discover... so I am gonna go now... BB
 <code><img height="37" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker"></code>
 <code><img height="37" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webstorm/webstorm-original.svg" alt="webstorm"></code>   
 
-MEDIUM_POST_LOCATION
+MEDIUM_POSTS_LOCATION
 
 ### Github streaks:
   
