@@ -13,6 +13,8 @@
     <img alt="Medium blog" src="https://img.shields.io/badge/Medium-2c756b?style=for-the-badge&logo=medium&logoColor=white" /></a>
   <a href="https://freakingcode.hashnode.dev/" target="_blank">
     <img alt="Hashnode blog" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
+  <a href="https://dev.to/georgelinardis" target="_blank">
+    <img alt="Dev.to blog" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a> 
 </div>
 
 ### I am a Javascript Fullstack Web developer
