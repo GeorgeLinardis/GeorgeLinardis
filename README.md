@@ -44,14 +44,6 @@ There is a huge world out there to discover... so I am gonna go now... BB
 <code><img height="37" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code> 
 <code><img height="37" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker"></code>
 <code><img height="37" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webstorm/webstorm-original.svg" alt="webstorm"></code> 
-  
-### Latest posts
-- [Learning the Difference: Unit vs Integration Testing](https://medium.com/@georgelinardis/dont-fall-into-the-trap-knowing-the-difference-between-unit-and-integration-tests-73d4a8410acb)
-- [Scrum Planning and Poker 101](https://medium.com/@georgelinardis/a-junior-developers-guide-to-essential-job-concepts-scrum-planning-and-poker-481b870f9f33)
-- [Tips for Organizing and Improving your Pull Requests](https://medium.com/@georgelinardis/tips-for-organizing-and-improving-your-pull-requests-f42c4d6c0695)
-- [Unraveling the Mysteries of the .git Folder](https://medium.com/@georgelinardis/unraveling-the-mysteries-of-the-git-folder-d47b55071aa5)
-- [Async/Await VS Chaining: A Gif-Filled Visual Guide](https://medium.com/@georgelinardis/async-await-vs-promise-chaining-visualising-the-flows-40865d115af1)
-- [CRON for Beginners: An Introduction to Scheduling Tasks in Linux](https://blog.devgenius.io/what-is-a-cron-and-how-to-create-your-first-one-9560d229bf5a)
 
 
 
