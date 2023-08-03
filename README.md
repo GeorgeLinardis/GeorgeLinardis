@@ -5,16 +5,8 @@
   <a href="https://github.com/Georgelinardis" target="_blank">
     <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
   </a>
-  <a href="https://twitter.com/FreakingCode" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/georgelinardis/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://medium.com/@georgelinardis/" target="_blank">
-    <img alt="Medium blog" src="https://img.shields.io/badge/Medium-2c756b?style=for-the-badge&logo=medium&logoColor=white" /></a>
-  <a href="https://freakingcode.hashnode.dev/" target="_blank">
-    <img alt="Hashnode blog" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
-  <a href="https://dev.to/georgelinardis" target="_blank">
-    <img alt="Dev.to blog" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a> 
 </div>
 
 ### I am a Javascript Fullstack Web developer
