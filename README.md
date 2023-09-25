@@ -11,18 +11,19 @@
 
 ### I am a Javascript Fullstack Web developer
 
-I tried to think how should I describe what I am currently learning.
-But how would you describe that you are discovering what a full stack web developer needs to know?
+I tried to think about how should I describe what I am trying to learn.
+But how would you describe that you are discovering what a full-stack web developer needs to know?
 
-I guess it would be easier to list some of my wanna-know list items:
+It might be more convenient to list some of the topics on my 'must-learn' agenda:
 
-- Javascript - advanced issues (promises, currying etc)
-- Databases - specifically MYSQL - Elasticsearch
-- Front end stuff like cookies (yes I'd like some with butter please), browser behaviour, engines, event loops
-- Discover libraries as/for logging, webpack (oh the horror!)
-- Learn development theory e.g design patterns, database designing...
+- Javascript - no idea how deep this goes... :)
+- Databases - specifically MYSQL but certainly not limited to that.
+- Front-end stuff like cookies (yes I'd like some with butter please), browser behavior.
+- Exploring various libraries, including those for logging, and grappling with the complexities of Webpack. (oh the horror!)
+- Learn development theory e.g. design patterns, database design...
+- Establish a robust understanding of Computer Systems.
 
-There is a huge world out there to discover... so I am gonna go now... BB 
+There is a huge world out there to discover... so I am gonna go now... BB 😀
 <br>
 ### Languages and Tools:
 
