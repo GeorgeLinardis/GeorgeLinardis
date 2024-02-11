@@ -9,32 +9,36 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 
-### I am a Javascript Fullstack Web developer
+### I am a JavaScript Fullstack developer, whose heart belongs to frontend
 
-I tried to think about how should I describe what I am trying to learn.
-But how would you describe that you are discovering what a full-stack web developer needs to know?
+So, picture this: I'm on a quest, a daring journey to unravel the mysteries of becoming a full-stack web wizard. 🧙‍♂️ But how do you even begin to explain this epic odyssey?
 
-It might be more convenient to list some of the topics on my 'must-learn' agenda:
+But fear not, brave souls! Here's a glimpse into my formidable 'must-learn' agenda:
 
-- Javascript - no idea how deep this goes... :)
-- Databases - specifically MYSQL but certainly not limited to that.
-- Front-end stuff like cookies (yes I'd like some with butter please), browser behavior.
-- Exploring various libraries, including those for logging, and grappling with the complexities of Webpack. (oh the horror!)
-- Learn development theory e.g. design patterns, database design...
-- Establish a robust understanding of Computer Systems.
+- **Javascript** - no idea how deep this goes...  just when you think you've hit the bottom, you discover there's a whole new level of depth waiting to be explored. 🌊
+- **Databases** - Specifically MYSQL, but who says I can't dip into other data realms as well?
+- **Front-end magic**: From understanding the quirky behavior of browsers to cookies 🍪 (yes, please, with a side of butter!). 
+- **Tech exploration** Building a solid foundation of understanding computer systems. This seems like trying to build a skyscraper on a foundation made of Jenga blocks – one wrong move, and it all comes crashing down. But fear not, for I shall be the architect of my own digital destiny! 🏗️
 
-There is a huge world out there to discover... so I am gonna go now... BB 😀
-<br>
-### Languages and Tools:
+So, there you have it – my epic saga of becoming a full-stack web developer, complete with twists, turns, and a healthy dose of humor. Onward, to the coding adventures that await! 🚀
 
-<code><img height="37" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
-<code><img height="37" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="expressjs"></code>
-<code><img height="37" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
-<code><img height="37" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" alt="redux"></code>
-<code><img height="37" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
-<code><img height="37" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
-<code><img height="37" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm"></code>
-<code><img height="37" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code> 
-<code><img height="37" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker"></code>
-<code><img height="37" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webstorm/webstorm-original.svg" alt="webstorm"></code> 
 
+### Tech stack
+
+Below you'll find my preferred stack, but I'm always up for taking a detour through the tech jungle gym! 🛠️
+
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Chai](https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red)
+![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
+![Sinon](https://img.shields.io/badge/sinon.js-323330?style=for-the-badge&logo=sinon)
+![RTL](https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
