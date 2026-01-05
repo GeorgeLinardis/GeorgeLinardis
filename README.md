@@ -65,7 +65,6 @@ I value clarity over cleverness and long-term maintainability over quick hacks.
 **Frontend**
   
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 **Backend & Databases**
@@ -77,7 +76,6 @@ I value clarity over cleverness and long-term maintainability over quick hacks.
 **Testing**
   
 ![Jest](https://img.shields.io/badge/Jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Testing Library](https://img.shields.io/badge/Testing%20Library-323330?style=for-the-badge&logo=testing-library&logoColor=red)
 ![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
 
 **Tools & Platform**
