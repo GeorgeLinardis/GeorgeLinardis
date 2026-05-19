@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=200&section=header&text=George%20Linardis&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=TypeScript%20Full-Stack%20Developer&descAlignY=55&descSize=18"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=7%2B+Years+Shipping+Full-Stack+SaaS;Frontend-Leaning%2C+End-to-End+Capable;TypeScript+%C2%B7+React+%C2%B7+Node.js;Business+Context+%2B+Engineering+Depth" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=8%2B+Years+Shipping+Full-Stack+SaaS;Frontend-Leaning%2C+End-to-End+Capable;TypeScript+%C2%B7+React+%C2%B7+Node.js;Business+Context+%2B+Engineering+Depth" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -20,7 +20,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a full-stack developer with **7+ years shipping production features** at a fully remote, product-driven SaaS company. My work spans React interfaces through backend APIs, data modeling, and third-party integrations (payments, invoicing, Wise).
+I'm a full-stack developer with **8+ years shipping production features** at a fully remote, product-driven SaaS company. My work spans React interfaces through backend APIs, data modeling, and third-party integrations (payments, invoicing, Wise).
 
 Before writing code, I spent 6 years in commercial and client-facing roles — which means I think about software in terms of **users and business outcomes**, not just implementation. That background shapes how I approach product decisions, trade-offs, and communication with non-technical stakeholders.
 
