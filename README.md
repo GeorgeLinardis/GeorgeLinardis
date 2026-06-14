@@ -20,11 +20,9 @@
 
 ## 👨‍💻 About Me
 
-I'm a full-stack developer with **8+ years shipping production features** at a fully remote, product-driven SaaS company. My work spans React interfaces through backend APIs, data modeling, and third-party integrations (payments, invoicing, Wise).
-
-Before writing code, I spent 6 years in commercial and client-facing roles — which means I think about software in terms of **users and business outcomes**, not just implementation. That background shapes how I approach product decisions, trade-offs, and communication with non-technical stakeholders.
-
-I'm currently going deep on TypeScript internals, algorithms, and system design.
+I'm a Full-Stack Developer with **8+ years shipping production features** at a fully remote, product-driven SaaS company. My work spans React interfaces through backend APIs, data modeling, and third-party integrations (payments, invoicing, Wise).
+  
+Before writing code, I worked in commercial and client-facing roles, which means I think about software in terms of users and business outcomes, not just implementation. That background shapes how I approach product decisions, trade-offs, and communication with non-technical stakeholders.
 
 <br/>
 
@@ -85,20 +83,6 @@ I'm currently going deep on TypeScript internals, algorithms, and system design.
 <tr>
 <td width="50%">
 
-**TypeScript Internals**
-Type-level programming, utility types, generics
-
-</td>
-<td width="50%">
-
-**Algorithms & DSA**
-Patterns, complexity analysis, problem solving
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
 **System Design**
 APIs, data modeling, scalable architecture
 
@@ -152,9 +136,9 @@ Understand the problem before touching the code.
 
 </div>
 
-Seven years of production work taught me that most bugs are requirements misunderstood, most rewrites are refactors avoided too long, and most performance problems are architecture decisions made too early.
+Eight years of production work taught me that most bugs are requirements misunderstood, most rewrites are refactors avoided too long, and most performance problems are architecture decisions made too early.  
 
-I value **clarity over cleverness**, **boring solutions over clever ones**, and code that the next developer — including future me — can actually understand.
+I value **clarity over cleverness**, **boring solutions over clever ones**, and code that the next developer (including future me) can actually understand.
 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=120&section=footer"/>
